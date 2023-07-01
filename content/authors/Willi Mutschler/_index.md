@@ -10,15 +10,17 @@ role: 'Assistant Professor for International Macroeconomics<br/>Member of Dynare
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 'Department of International Macroeconomics and Finance, University of Tuebingen'
+  - name: 'School of Business and Economics'
     url: https://uni-tuebingen.de/en/34644
+  - name: 'University of Tuebingen'
+    url: https://uni-tuebingen.de/en/
   - name: DFG Project 411754673
     url: https://gepris.dfg.de/gepris/projekt/411754673?language=en
-  - name: Dynare Developer
+  - name: Dynare Team
     url: https://www.dynare.org/about
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Macroeconomics and Time Series Econometrics.
+bio: Willi Mutschler is an Assistant Professor for International Macroeconomics at University of Tübingen.
 
 # Interests to show in About widget
 interests:
@@ -30,17 +32,17 @@ interests:
   - Time Series Econometrics
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Economics
-      institution: University of Muenster
-      year: 11/2015
-    - course: MSc in Economics
-      institution: University of Muenster
-      year: 04/2012
-    - course: BSc in Economics
-      institution: University of Bonn
-      year: 09/2009
+#education:
+#  courses:
+#    - course: PhD in Economics
+#      institution: University of Muenster
+#      year: 11/2015
+#    - course: MSc in Economics
+#      institution: University of Muenster
+#      year: 04/2012
+#    - course: BSc in Economics
+#      institution: University of Bonn
+#      year: 09/2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -90,10 +92,14 @@ highlight_name: false
 
 ## this is how to use icons in posts: {{< icon name="download" pack="fas" >}}
 ---
-I am an *Assistant Professor* in *International Macroeconomics* at the [University of Tuebingen](https://uni-tuebingen.de/en/19615). My research interests include quantitative macroeconomics and econometrics with a focus on developing identification and estimation methods for dynamic and stochastic models with skewed distributions and rare disasters.
+</br >Willi Mutschler is an Assistant Professor for International Macroeconomics at the University of Tuebingen and a member of the Dynare Team maintaining the identification and method-of-moments toolboxes.
 
-I am a member of [Dynare's](https://www.dynare.org/about/#team) core development team and maintain the identification and method-of-moments toolboxes.
-You are highly encouraged to check out my [Dynare Teaching Materials](dynare)
-  and courses on [Computational Macroeconomics](https://github.com/wmutschl/Computational-Macroeconomics) and [Quantitative Macroeconomics](https://github.com/wmutschl/Quantitative-Macroeconomics).
+His research studies the sources of business cycles with new identification and estimation methods for dynamic and stochastic models with skewed distributions and rare disasters.
+
+You are highly encouraged to check out my [Dynare Teaching Materials](dynare), 
+  recent courses on [Computational Macroeconomics](https://github.com/wmutschl/Computational-Macroeconomics) and [Quantitative Macroeconomics](https://github.com/wmutschl/Quantitative-Macroeconomics), and tutorials and lectures on [YouTube](https://www.youtube.com/c/wmutschl).
+
+
+
 
 Feel free to *[contact](#contact)* me directly or to *[schedule an appointment](https://schedule.mutschler.eu)*.
